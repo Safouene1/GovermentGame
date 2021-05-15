@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ProjetGame",
+"productVersion": "0.1",
+"dataUrl": "legouvernement.data.unityweb",
+"wasmCodeUrl": "legouvernement.wasm.code.unityweb",
+"wasmFrameworkUrl": "legouvernement.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
